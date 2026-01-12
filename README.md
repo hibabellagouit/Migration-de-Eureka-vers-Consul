@@ -66,6 +66,5 @@ Le projet est composé de plusieurs modules :
 3. Mettre à jour le fichier `application.yml` pour utiliser la configuration Consul
 4. Ajouter l'annotation `@EnableDiscoveryClient` à la classe principale
 
-## Licence
+<img width="1920" height="1080" alt="Design sans titre" src="https://github.com/user-attachments/assets/bcc76d1c-b676-49b8-ac6f-58da40790955" />
 
-Ce projet est sous licence MIT.
