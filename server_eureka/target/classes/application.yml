@@ -1,0 +1,22 @@
+server:
+  port: 8761
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+  server:
+    enable-self-preservation: false
+    wait-time-in-ms-when-sync-empty: 0
+
+spring:
+  devtools:
+    restart:
+      enabled: false
+  application:
+    name: eureka-server
+
+logging:
+  level:
+    com.netflix.eureka: OFF
+    com.netflix.discovery: OFF
